@@ -10,3 +10,7 @@ Here I will collect usefull notes.
 ## Communication
 
 [How to give real-time feedback that sticks](https://speakerdeck.com/wjessup/building-better-people-how-to-give-real-time-feedback-that-sticks)
+
+## Rails
+
+[CurrentAttributes](http://edgeapi.rubyonrails.org/classes/ActiveSupport/CurrentAttributes.html)
