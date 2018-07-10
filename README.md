@@ -14,3 +14,7 @@ Here I will collect usefull notes.
 ## Rails
 
 [CurrentAttributes](http://edgeapi.rubyonrails.org/classes/ActiveSupport/CurrentAttributes.html)
+
+## Productivity
+
+[7 Things to Start Being More Productive, Today](https://medium.com/@cammipham/7-things-you-need-to-stop-doing-to-be-more-productive-backed-by-science-a988c17383a6)
